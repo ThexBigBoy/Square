@@ -11,7 +11,7 @@
 <body style="background-color: rgb(29, 29, 29);">
     <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="/">Squre</a>
+          <a class="navbar-brand" href="/">Square</a>
           <div class="collapse navbar-collapse" id="navbarNav">
             <div class="row" style="width: 100%;">
                 <div class="col-xl-6">

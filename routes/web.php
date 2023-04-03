@@ -19,3 +19,4 @@ Route::get('/', function () {
 });
 
 Route::get('login', 'App\Http\Controllers\LoginController@index');
+Route::post('login.go', 'App\Http\Controllers\LoginController@login');
